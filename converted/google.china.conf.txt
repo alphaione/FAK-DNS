@@ -78,6 +78,11 @@
 [/c.android.clients.google.com/]quic://dns.alidns.com
 [/c.android.clients.google.com/]https://dns.alidns.com/dns-query
 [/c.android.clients.google.com/]https://doh.pub/dns-query
+[/c.pki.goog/]https://104302-agh.alidns.com/dns-query
+[/c.pki.goog/]https://doh-dc63921c-adguardhome.doh.pub/dns-query
+[/c.pki.goog/]quic://dns.alidns.com
+[/c.pki.goog/]https://dns.alidns.com/dns-query
+[/c.pki.goog/]https://doh.pub/dns-query
 [/cache-management-prod.google.com/]https://104302-agh.alidns.com/dns-query
 [/cache-management-prod.google.com/]https://doh-dc63921c-adguardhome.doh.pub/dns-query
 [/cache-management-prod.google.com/]quic://dns.alidns.com
