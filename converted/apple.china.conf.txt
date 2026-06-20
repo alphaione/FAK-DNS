@@ -523,6 +523,11 @@
 [/itunesconnect.apple.com/]quic://dns.alidns.com
 [/itunesconnect.apple.com/]https://dns.alidns.com/dns-query
 [/itunesconnect.apple.com/]https://doh.pub/dns-query
+[/mensura.cdn-apple.com/]https://104302-agh.alidns.com/dns-query
+[/mensura.cdn-apple.com/]https://doh-dc63921c-adguardhome.doh.pub/dns-query
+[/mensura.cdn-apple.com/]quic://dns.alidns.com
+[/mensura.cdn-apple.com/]https://dns.alidns.com/dns-query
+[/mensura.cdn-apple.com/]https://doh.pub/dns-query
 [/mesu-cdn.apple.com.akadns.net/]https://104302-agh.alidns.com/dns-query
 [/mesu-cdn.apple.com.akadns.net/]https://doh-dc63921c-adguardhome.doh.pub/dns-query
 [/mesu-cdn.apple.com.akadns.net/]quic://dns.alidns.com
