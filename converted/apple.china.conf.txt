@@ -328,6 +328,11 @@
 [/gsp85-cn-ssl.ls.apple.com/]quic://dns.alidns.com
 [/gsp85-cn-ssl.ls.apple.com/]https://dns.alidns.com/dns-query
 [/gsp85-cn-ssl.ls.apple.com/]https://doh.pub/dns-query
+[/gspe11-2-cn-ssl.ls.apple.com/]https://104302-agh.alidns.com/dns-query
+[/gspe11-2-cn-ssl.ls.apple.com/]https://doh-dc63921c-adguardhome.doh.pub/dns-query
+[/gspe11-2-cn-ssl.ls.apple.com/]quic://dns.alidns.com
+[/gspe11-2-cn-ssl.ls.apple.com/]https://dns.alidns.com/dns-query
+[/gspe11-2-cn-ssl.ls.apple.com/]https://doh.pub/dns-query
 [/gspe19-2-cn-ssl.ls-apple.com.akadns.net/]https://104302-agh.alidns.com/dns-query
 [/gspe19-2-cn-ssl.ls-apple.com.akadns.net/]https://doh-dc63921c-adguardhome.doh.pub/dns-query
 [/gspe19-2-cn-ssl.ls-apple.com.akadns.net/]quic://dns.alidns.com
